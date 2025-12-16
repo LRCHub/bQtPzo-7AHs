@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Jeremy",
+  "base_artist": "Pearl Jam",
+  "createdAt": "2025-12-16T05:58:17.583730Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jeremy",
+      "artist": "The Magnetic Fields",
+      "has_synced": false,
+      "path": "select/01_Jeremy_The_Magnetic_Fields.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "El Pueblo Unido (Jeremy Sole feat. Quantic Remix)",
+      "artist": "Thievery Corporation",
+      "has_synced": false,
+      "path": "select/02_El_Pueblo_Unido_(Jeremy_Sole_feat._Quantic_Remix)_Thievery_Corporation.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Guy Like You (Jeremy Wheatley Radio Edit)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/03_A_Guy_Like_You_(Jeremy_Wheatley_Radio_Edit)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Et alors ! (Remix Jeremy Hills)",
+      "artist": "Shy'm",
+      "has_synced": true,
+      "path": "select/04_Et_alors_!_(Remix_Jeremy_Hills)_Shy'm.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jeremy",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/05_Jeremy_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jeremy",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/06_Jeremy_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Atoms (feat. Jeremy Zucker)",
+      "artist": "RL Grime",
+      "has_synced": true,
+      "path": "select/07_Atoms_(feat._Jeremy_Zucker)_RL_Grime.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Could Fall In Love With You (Jeremy Wheatley Extended 12'' Mix)",
+      "artist": "Erasure",
+      "has_synced": true,
+      "path": "select/08_I_Could_Fall_In_Love_With_You_(Jeremy_Wheatley_Extended_12''_Mix)_Erasure.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Could Fall in Love with You (Jeremy Wheatley Radio Mix)",
+      "artist": "Erasure",
+      "has_synced": true,
+      "path": "select/09_I_Could_Fall_in_Love_with_You_(Jeremy_Wheatley_Radio_Mix)_Erasure.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jeremy Parker",
+      "artist": "Swirlies",
+      "has_synced": false,
+      "path": "select/10_Jeremy_Parker_Swirlies.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jeremy Bender",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": true,
+      "path": "select/11_Jeremy_Bender_Emerson,_Lake_&_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jeremy Bender – The Sheriff",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": false,
+      "path": "select/12_Jeremy_Bender_–_The_Sheriff_Emerson,_Lake_&_Palmer.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jeremy Bender \u0000 The Sheriff",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": false,
+      "path": "select/13_Jeremy_Bender_\u0000_The_Sheriff_Emerson,_Lake_&_Palmer.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jeremy Bender - The Sheriff (a. Jeremy Bender, b. The Sheriff)",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": false,
+      "path": "select/14_Jeremy_Bender_-_The_Sheriff_(a._Jeremy_Bender,_b._The_Sheriff)_Emerson,_Lake_&_Palmer.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Selfish (Feat. Jeremy Glenn)",
+      "artist": "Tensnake",
+      "has_synced": true,
+      "path": "select/15_Selfish_(Feat._Jeremy_Glenn)_Tensnake.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jeremy",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/16_Jeremy_Pearl_Jam.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jeremy",
+      "artist": "Pearl Jam",
+      "has_synced": false,
+      "path": "select/pl_01_Jeremy_Pearl_Jam.txt"
+    }
+  ]
+}
